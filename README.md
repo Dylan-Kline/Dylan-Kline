@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Dylan, a computer science student at Austin Community College. 😊</p>
+<p align="left">I'm Dylan, a computer science student at the University of Rochester. 😊</p>
 
 ###
 
