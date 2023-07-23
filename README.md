@@ -3,9 +3,6 @@
 </div>
 
 
-![shirotitan_cosmic_portal_full_of_energy_magical_world_surroundi_8673c9de-2145-44e5-ba9f-983da2ed4aa7](https://github.com/Dylan-Kline/Dylan-Kline/assets/100173809/effa86c3-43d3-4685-a31c-6ffa5b18bc1c)
-
-
 <p align="left">“The world of reality has its limits; the world of imagination is boundless.”<br>- Jean-Jacques Rousseau</p>
 
 ###
