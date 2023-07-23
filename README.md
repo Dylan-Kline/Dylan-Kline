@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Dylan-Kline/Dylan-Kline/assets/100173809/effa86c3-43d3-4685-a31c-6ffa5b18bc1c" alt="Image" height="450">
+  <img src="https://github.com/Dylan-Kline/Dylan-Kline/assets/100173809/f5d61b2d-d80b-4275-8291-53f9baf7c4ff" alt="Image" height="450">
 </div>
 
 
