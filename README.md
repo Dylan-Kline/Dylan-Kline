@@ -1,8 +1,9 @@
 <div align="center">
-  <img height="300" src="https://mj-gallery.com/8c36481c-a3e9-473a-bec7-edb650b6f975/grid_0_640_N.webp"  />
+  <img src="https://github.com/Dylan-Kline/Dylan-Kline/assets/100173809/effa86c3-43d3-4685-a31c-6ffa5b18bc1c" alt="Image" height="300">
 </div>
 
-###![0_0](https://github.com/Dylan-Kline/Dylan-Kline/assets/100173809/7d36e8e8-d3c6-43f8-8826-d9456b785076)
+
+![shirotitan_cosmic_portal_full_of_energy_magical_world_surroundi_8673c9de-2145-44e5-ba9f-983da2ed4aa7](https://github.com/Dylan-Kline/Dylan-Kline/assets/100173809/effa86c3-43d3-4685-a31c-6ffa5b18bc1c)
 
 
 <p align="left">“The world of reality has its limits; the world of imagination is boundless.”<br>- Jean-Jacques Rousseau</p>
