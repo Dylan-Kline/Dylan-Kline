@@ -2,7 +2,8 @@
   <img height="300" src="https://mj-gallery.com/8c36481c-a3e9-473a-bec7-edb650b6f975/grid_0_640_N.webp"  />
 </div>
 
-###
+###![0_0](https://github.com/Dylan-Kline/Dylan-Kline/assets/100173809/7d36e8e8-d3c6-43f8-8826-d9456b785076)
+
 
 <p align="left">“The world of reality has its limits; the world of imagination is boundless.”<br>- Jean-Jacques Rousseau</p>
 
@@ -20,7 +21,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Data Structures & Algorithms, Full Stack Web Development, and Python for Machine Learning.<br><br>🎯 Goals: To make an artificial intelligence that won't take over the world.<br><br>🎲 Fun fact: I've read well over a hundred web novels.</p>
+<p align="left">📚 I'm currently learning Full Stack Web Development, and Python for Machine Learning.<br><br>🎯 Goals: To make an artificial intelligence that won't take over the world.<br><br>🎲 Fun fact: I've read well over a hundred web novels.</p>
 
 ###
 
