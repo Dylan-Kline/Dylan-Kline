@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Full Stack Web Development, and Python for Machine Learning.<br><br>🎯 Goals: To make an artificial intelligence that won't take over the world.<br><br>🎲 Fun fact: I've read well over a hundred web novels.</p>
+<p align="left">📚 I'm currently learning Full Stack Web Development, Machine Learning, and Data mining.<br><br>🎯 Goals: To make an artificial intelligence that won't take over the world.<br><br>🎲 Fun fact: I've read well over a couple hundred web novels.</p>
 
 ###
 
