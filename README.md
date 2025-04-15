@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">📚 I'm currently exploring the use of Machine Learning in financial markets!!<br><br>🎯 Goals: To make an artificial intelligence that won't take over the world.<br><br>🎲 Fun fact: I've read well over a thousand books.</p>
+<p align="left">📚 I'm currently exploring the use of Machine Learning in financial markets!!<br><br>🎯 Goals: To lay the foundations for the achievement of human intelligence in a machine.<br><br>🎲 Fun fact: I've read well over a thousand books.</p>
 
 ###
 
