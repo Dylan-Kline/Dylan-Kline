@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I'm Dylan, a computer science student at the University of Rochester. 😊</p>
+<p align="left">I'm Dylan, an avid algorithmic trader and machine learning researcher. 😊</p>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">📚 I'm currently exploring the use of Machine Learning in financial markets!!<br><br>🎯 Goals: To lay the foundations for the achievement of human intelligence in a machine.<br><br>🎲 Fun fact: I've read well over a thousand books.</p>
+<p align="left">📚 I'm currently exploring the use of Deep Learning and Agentic AI in financial markets!!<br><br>🎯 Goals: To lay the foundations for the achievement of human intelligence in a machine.<br><br>🎲 Fun fact: I've read well over a thousand books.</p>
 
 ###
 
